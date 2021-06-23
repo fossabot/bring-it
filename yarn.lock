@@ -378,10 +378,10 @@
   dependencies:
     "@commitlint/config-conventional" "^12.1.4"
 
-"@nice-move/eslint-config-base@^0.5.42":
-  version "0.5.42"
-  resolved "https://registry.yarnpkg.com/@nice-move/eslint-config-base/-/eslint-config-base-0.5.42.tgz#69c86592f3b51f0f23b286c127173eabd0f965ad"
-  integrity sha512-607GIjDy9n+brx0Pe9hUYnL2whL+CTeYsyJByrEHt6xGoByk3aQX4wb9sYrT5qK2RPgFcNrmpiM/G6yzRCGafg==
+"@nice-move/eslint-config-base@0.5.43":
+  version "0.5.43"
+  resolved "https://registry.yarnpkg.com/@nice-move/eslint-config-base/-/eslint-config-base-0.5.43.tgz#a05b4428151626b3deecfc51211d139c619d0756"
+  integrity sha512-cxB7KBvYUAfxkHuoHxGZJbWkJBloJ74ebXYCwxggNRrzmDb7UXErt0D6u1A4McfbQUhbvZUCdhdZSwZoq8jgtA==
   dependencies:
     eslint-config-airbnb-base "^14.2.1"
     eslint-config-prettier "^8.3.0"
